@@ -77,3 +77,6 @@ See CONTRIBUTING.md. Small, tested patches preferred. All changes must keep the 
 
 GPL-3.0-or-later (code)  
 Documentation and examples may be dual-licensed under CC-BY-SA-4.0 where noted.
+
+## Knowledge Integration
+See `docs/knowledge/`.
